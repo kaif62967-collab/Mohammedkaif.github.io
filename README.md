@@ -58,7 +58,9 @@ This project is an interactive Power BI dashboard developed to analyze credit ca
 > Upload a dashboard screenshot and replace the filename below.
 
 ```markdown
-![Dashboard](dashboard.png)
+!## 📷 Dashboard Preview
+
+![Credit Card Dashboard](Screenshot%202026-06-27%20225115.png)
 ```
 
 ---
